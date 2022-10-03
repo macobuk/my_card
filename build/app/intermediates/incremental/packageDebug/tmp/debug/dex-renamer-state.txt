@@ -1,4 +1,4 @@
-#Mon Oct 03 03:44:01 CST 2022
-base.0=/Users/maciejobukowicz/Developer/mi_card_flutter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Mon Oct 03 04:05:06 CST 2022
+base.0=/Users/maciejobukowicz/Developer/mi_card_flutter/my_card/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

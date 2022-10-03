@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/maciejobukowicz/Developer/mi_card_flutter/build/url_launcher_android/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/maciejobukowicz/Developer/mi_card_flutter/my_card/build/url_launcher_android/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/maciejobukowicz/.gradle/caches/transforms-3/bb9a53f8c4dc071c681fa071739dc70b/transformed/jetified-window-1.0.0-beta04/res/values/values.xml",
@@ -44,7 +44,7 @@
             ]
         },
         {
-            "outputFile": "/Users/maciejobukowicz/Developer/mi_card_flutter/build/url_launcher_android/intermediates/merged_res/debug/values/values.xml",
+            "outputFile": "/Users/maciejobukowicz/Developer/mi_card_flutter/my_card/build/url_launcher_android/intermediates/merged_res/debug/values/values.xml",
             "map": [
                 {
                     "source": "/Users/maciejobukowicz/.gradle/caches/transforms-3/bb9a53f8c4dc071c681fa071739dc70b/transformed/jetified-window-1.0.0-beta04/res/values/values.xml",

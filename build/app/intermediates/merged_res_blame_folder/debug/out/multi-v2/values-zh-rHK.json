@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/maciejobukowicz/Developer/mi_card_flutter/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml",
+            "outputFile": "/Users/maciejobukowicz/Developer/mi_card_flutter/my_card/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml",
             "map": [
                 {
                     "source": "/Users/maciejobukowicz/.gradle/caches/transforms-3/cdc8381483b8f93e69df15ad3eb1e86a/transformed/core-1.6.0/res/values-zh-rHK/values-zh-rHK.xml",
