@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello World, I am Maciej Obukowicz</h1>
-<h3 align="center">A creative mobile developer from Poland, working remotely in Costa Rica. Willing to relocate for the right opportunity.</h3>
+<h3 align="center">Check out my virtual business card made with Flutter.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=macobuk&label=Profile%20views&color=32b40e&style=flat" alt="macobuk" /> </p>
 
